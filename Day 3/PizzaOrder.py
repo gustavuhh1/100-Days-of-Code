@@ -40,4 +40,4 @@ else:
     order += "[-]"
 
 
-print(f"Order: {size} - {order} - Total_bill: {bill}")
+print(f"Order: {size} - {order} - Total_bill: {bill}$")
