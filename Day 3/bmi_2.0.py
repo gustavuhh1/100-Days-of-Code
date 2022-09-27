@@ -9,12 +9,12 @@ bmi = round(weight / (height**2))
 print(bmi)
 
 if bmi < 18.5:
-    print("Under weight")
+    print("Vai comer diabo")
 if bmi > 18.5 and bmi < 25:
-    print("Normal Weight")
+    print("ta susu")
 if bmi > 25 and bmi < 30:
-    print("Over weight")
+    print("Vai da uma corridinha")
 if bmi > 30 and bmi < 35:
-    print("Obese")
+    print("Parar o Bigmac ai rei")
 if bmi > 35:
     print("OBESO GORDÃO")
