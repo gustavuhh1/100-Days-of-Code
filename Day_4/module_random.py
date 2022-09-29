@@ -17,4 +17,4 @@ states_of_brazil[1] = "MG"
 
 states_of_brazil.append("bahia")
 
-print(states_of_brazil)
+print(states_of_brazil[3:7])
